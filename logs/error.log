@@ -1,0 +1,5 @@
+{"level":"error","message":"Error creating the user: TypeError: Cannot convert undefined or null to object","service":"acquisitions-api","timestamp":"2026-07-31T06:33:11.980Z"}
+{"level":"error","message":"Error signing up: TypeError: Cannot convert undefined or null to object","service":"acquisitions-api","timestamp":"2026-07-31T06:33:11.984Z"}
+{"level":"error","message":"Error creating the user: TypeError: Cannot convert undefined or null to object","service":"acquisitions-api","timestamp":"2026-07-31T06:35:44.333Z"}
+{"level":"error","message":"Error signing up: TypeError: Cannot convert undefined or null to object","service":"acquisitions-api","timestamp":"2026-07-31T06:35:44.339Z"}
+{"level":"error","message":"Error signing up: TypeError: cookies.set is not a function","service":"acquisitions-api","timestamp":"2026-07-31T06:38:11.085Z"}
